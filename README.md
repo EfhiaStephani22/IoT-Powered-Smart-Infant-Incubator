@@ -35,5 +35,4 @@ This project is an IoT-enabled smart infant incubator designed to monitor and ma
 - Smart healthcare monitoring
 - Remote infant care systems
 
-## Author
-Efhia Stephani
+
